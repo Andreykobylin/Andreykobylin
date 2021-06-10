@@ -1,0 +1,33 @@
+html{
+	background-image: url("../img/phone.jpg");
+	color:white;
+}
+h1,h2,h3,h4,h5,h6{
+	text-align:center;
+	color:gold;
+	font-weight:900;
+}
+table {
+   border: 3px solid #000;
+   background-color: #3fcfbc;
+   margin: 40px;
+
+
+}
+td,th, caption{
+   border: 3px solid #000;
+   background-color: #16470c;
+   text-align: center;
+   font-weight:600;
+}
+th{
+	background-color: #a5ca4e;
+	padding:10px;
+}
+td{
+	padding:5px;
+}
+caption{
+	color:rgb(28, 18, 37);
+	background-color: grey;
+}
