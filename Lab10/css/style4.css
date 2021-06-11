@@ -1,0 +1,42 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+
+}
+
+.rows{
+	display: flex;
+	justify-content: center;
+}
+
+.row{
+	display: flex;
+	justify-content: center;
+	margin:20px 0;
+	color: rgb(0, 0, 0);
+	font-size: 50px;
+	text-decoration: none;
+	padding-right: 50px;
+}
+
+.content{
+    height: 100vh;
+    display: flex;
+}
+
+aside {
+    display: flex;
+	justify-content: center;
+    align-items: center;
+    width: 20vw;
+    background-color: rgb(255, 174, 0);
+}
+
+main {
+    display: flex;
+	justify-content: center;
+    align-items: center;
+    flex: 1;
+    background-color: rgb(255, 221, 70);
+}
